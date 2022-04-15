@@ -1,0 +1,90 @@
+img {
+    display: block;
+    width: 50%;
+}
+#Travel {
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color:darkviolet;
+}
+h2 {
+    text-align: center;
+    color: midnightblue;
+}
+#breakfast {
+
+}
+#lunch {
+    margin: auto;
+}
+#dinner {
+    margin-left: auto;
+}
+#Pancakes2 {
+    margin: auto;
+}
+p {
+    text-align: center;
+}
+#FrenchToast {
+    width: 25%;
+    margin: auto;
+}
+#EBH {
+    margin: auto;
+}
+#Waffels {
+    margin: auto;
+}
+.p1 {
+    color: rgb(102, 185, 196);
+}
+.B1 {
+    color: salmon;
+}
+.page2 {
+    background-color: papayawhip;
+}
+.page1 {
+    background-color:darkgray
+}
+#Burger {
+    margin: auto;
+}
+.lunchdescriptions {
+    color: darkseagreen;
+    text-align:left
+     
+}
+#Grilledcheese {
+    margin: auto;
+}
+.p3 {
+    color: darkseagreen;
+}
+.Page3 {
+    background-color: lightgoldenrodyellow;
+}
+#Side {
+    margin-left: auto;
+}
+.Moveside {
+    text-align: right;
+}
+.Moveback {
+    text-align: left;
+}
+.DPB {
+    background-color: slategrey;
+}
+.DP {
+    color: rebeccapurple;
+}
+.LP {
+    color:darksalmon
+}
+.LP2 {
+    color: indianred;
+}
